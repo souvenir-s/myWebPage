@@ -1,3 +1,7 @@
 [submodule "themes/hugo-developer-portfolio"]
 	path = themes/hugo-developer-portfolio
 	url = http://github.com/samrobbins85/hugo-developer-portfolio
+[submodule "public"]
+	path = public
+	url = git@github.com:souvenir-s/souvenir-s.github.io.git
+	branch = main
